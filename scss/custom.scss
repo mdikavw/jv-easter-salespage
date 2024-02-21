@@ -1,0 +1,24 @@
+@import '../node_modules/bootstrap/scss/functions';
+@import '../node_modules/bootstrap/scss/variables';
+
+$primary: #f7a8b8; // Soft pink
+$secondary: #e9c0a8; // Light orange
+$success: #a2d3c2; // Mint green
+$info: #f0d2d4; // Soft red
+$warning: #dc9634; // Soft yellow
+$danger: #fd7267; // Salmon pink
+$light: #fbf9f9; // Off-white
+$dark: #333; // Dark gray
+
+$theme-colors: (
+	'primary': $primary,
+	'secondary': $secondary,
+	'success': $success,
+	'info': $info,
+	'warning': $warning,
+	'danger': $danger,
+	'light': $light,
+	'dark': $dark,
+);
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
