@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
     <link rel="stylesheet" href="css/custom.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"   />
     <title>Document</title>
 </head>
 
@@ -16,6 +18,8 @@
     <?php include './includes/cards.php' ?>
     <?php include './includes/welcome.php' ?>
     <?php include './includes/summary.php' ?>
+    <?php include './includes/svg-section.php' ?>
+    <?php include './includes/coloring-book-section.php' ?>
 </body>
 
 </html>

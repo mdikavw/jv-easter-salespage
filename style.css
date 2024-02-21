@@ -6,11 +6,6 @@
 	box-sizing: border-box;
 	font-family: 'Poppins', sans-serif;
 }
-
-.headline {
-	background-color: var(--primary);
-}
-
 .headline-img {
 	background-image: url('asset/headline-img.png');
 	background-size: cover;
@@ -29,10 +24,6 @@
 	);
 }
 
-.cards {
-	background-color: var(--light);
-}
-
-.welcome {
-	background-color: var(--secondary);
+i {
+	transform: scale(1.25);
 }

@@ -1,7 +1,7 @@
 <div class="container-fluid p-5 bg-secondary">
-    <div class="d-flex flex-column justify-content-center align-items-center">
+    <div class="d-flex flex-column justify-content-center align-items-center text-center">
         <h1 class="mb-3">Welcome to Our Easter Collection</h1>
-        <p>
+        <p class="w-75">
             We're thrilled to have you here! At BunnyBling, we're all about
             celebrating Easter in style. Our hopping Easter SVGs will bring a
             touch of magic to your Easter festivities. Whether you're a seasoned
