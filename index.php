@@ -20,6 +20,7 @@
     <?php include './includes/summary.php' ?>
     <?php include './includes/svg-section.php' ?>
     <?php include './includes/coloring-book-section.php' ?>
+    <?php include './includes/quotes-section.php' ?>
     <?php include './includes/purchase.php' ?>
 </body>
 

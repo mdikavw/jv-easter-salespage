@@ -1,6 +1,6 @@
 <div class="container-fluid p-5 bg-light d-flex flex-column align-items-center">
 
-    <h3 class="mb-5">Coloring Book Bundle</h3>
+    <h3 class="mb-5 fw-semibold">Coloring Book Bundle</h3>
     <div class="row justify-content-center align-items-center mb-5 w-75">
         <div class="col-md-6">
             <p>

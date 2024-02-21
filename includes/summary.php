@@ -1,6 +1,6 @@
 <div class="container-fluid p-5 bg-light">
     <div class="d-flex flex-column justify-content-center align-items-center">
-        <h1>What you'll get</h1>
+        <h1 class="fw-semibold">What you'll get</h1>
     </div>
     <div class="row my-5">
         <div class="col-lg-6">
