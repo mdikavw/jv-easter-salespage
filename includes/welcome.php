@@ -1,4 +1,4 @@
-<div class="welcome container-fluid p-5">
+<div class="container-fluid p-5 bg-secondary">
     <div class="d-flex flex-column justify-content-center align-items-center">
         <h1 class="mb-3">Welcome to Our Easter Collection</h1>
         <p>

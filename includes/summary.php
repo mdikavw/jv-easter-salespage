@@ -1,12 +1,14 @@
-<div class="container my-5">
+<div class="container-fluid py-5 bg-light">
     <div class="d-flex flex-column justify-content-center align-items-center">
         <h1>What you'll get</h1>
     </div>
     <div class="row my-5">
         <div class="col-lg-6">
-            <div class="card text-bg-light mb-3 h-100 p-2">
+            <div class="card bg-success mb-3 h-100 p-2">
                 <div class="card-body">
-                    <h4 class="card-title">Easter SVGs for Eye-Catching Designs</h4>
+                    <h4 class="card-title">
+                        Easter SVGs for Eye-Catching Designs
+                    </h4>
                     <p class="card-text">
                         Our Easter SVGs are designed to inspire creativity. From
                         adorable bunnies to colorful eggs, each design is ready to be
@@ -17,7 +19,7 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <div class="card text-bg-light mb-3 h-100 p-2">
+            <div class="card bg-success mb-3 h-100 p-2">
                 <div class="card-body">
                     <h4 class="card-title">
                         Engaging Video Posts to Tell Your Story
@@ -36,7 +38,7 @@
 
     <div class="row my-5">
         <div class="col-lg-6">
-            <div class="card text-bg-light mb-3 h-100 p-2">
+            <div class="card bg-success mb-3 h-100 p-2">
                 <div class="card-body">
                     <h4 class="card-title">
                         Interactive Coloring Books for All Ages
@@ -51,7 +53,7 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <div class="card text-bg-light mb-3 h-100 p-2">
+            <div class="card bg-success mb-3 h-100 p-2">
                 <div class="card-body">
                     <h4 class="card-title">Inspirational Easter Quotes to Share</h4>
                     <p class="card-text">
@@ -67,7 +69,7 @@
 
     <div class="row my-5">
         <div class="col-lg-6">
-            <div class="card text-bg-light mb-3 h-100 p-2">
+            <div class="card bg-success mb-3 h-100 p-2">
                 <div class="card-body">
                     <h4 class="card-title">
                         Customized Post Content Tailored for Your Brand
@@ -82,7 +84,7 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <div class="card text-bg-light mb-3 h-100 p-2">
+            <div class="card bg-success mb-3 h-100 p-2">
                 <div class="card-body">
                     <h4 class="card-title">Why Choose Us?</h4>
                     <ul>
@@ -104,12 +106,5 @@
         </div>
     </div>
 
-    <div class="row justify-content-center">
-        <div class="col-lg-6">
-            <div class="text-center">
-                <p class="lead">Ready to Elevate Your Easter Marketing?</p>
-                <a href="#" class="btn btn-primary btn-lg">Get Started Now</a>
-            </div>
-        </div>
-    </div>
+
 </div>
