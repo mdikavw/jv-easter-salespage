@@ -1,10 +1,11 @@
-<div class="container-fluid vh-100 bg-primary d-flex align-items-center">
-    <div class="row align-items-center">
-        <div class="col-md-6 d-flex justify-content-center">
-            <img src="https://via.placeholder.com/400" alt="Placeholder Image" />
+<div class="vh-100 bg-primary d-flex align-items-center">
+    <div class="h-100 w-100 headline-img position-absolute">
+        <div class="headline-overlay">
+
         </div>
-        <div class="col-md-6">
-            <h2 class="mb-3">
+        <div
+            class="h-100 w-100 d-flex flex-column justify-content-center align-items-center text-white z-1 position-absolute">
+            <h2 class="fw-bold mb-3">
                 New season, new savings! Shop our Easter collection now!
             </h2>
             <p>
