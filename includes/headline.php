@@ -1,4 +1,4 @@
-<div class="container-fluid p-5 bg-primary">
+<div class="container-fluid vh-100 bg-primary d-flex align-items-center">
     <div class="row align-items-center">
         <div class="col-md-6 d-flex justify-content-center">
             <img src="https://via.placeholder.com/400" alt="Placeholder Image" />
