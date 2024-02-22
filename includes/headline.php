@@ -1,5 +1,6 @@
 <div class="vh-100 bg-primary d-flex align-items-center">
     <div class="h-100 w-100 headline-img position-absolute">
+        <?php include 'header.php' ?>
         <div class="headline-overlay">
 
         </div>
