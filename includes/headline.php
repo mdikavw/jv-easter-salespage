@@ -12,7 +12,14 @@
                 Easter Special ending soon. So, HOP TO IT to get these Content with
                 Complete Private Label Commercial Use Rights
             </p>
-            <button class="btn btn-secondary px-5 py-2 my-5 fw-bold text-white">Explore</button>
+            <button
+                class="btn btn-secondary px-5 py-3 my-5 fw-bold text-white d-flex align-items-center gap-3 rounded-5"
+                onclick="document.getElementById('explore').scrollIntoView()">
+                <div class="fs-4">
+                    Explore
+                </div>
+                <i class="fas fa-angle-down fs-3"></i>
+            </button>
         </div>
     </div>
 </div>

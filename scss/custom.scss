@@ -1,45 +1,20 @@
 @import '../node_modules/bootstrap/scss/functions';
 @import '../node_modules/bootstrap/scss/variables';
 
+$easter-pink: #ffc0cb;
+$easter-green: #98fb98;
+$easter-lavender: #e6e6fa;
+$easter-yellow: #ffffe0;
+$easter-blue: #87ceeb;
+
 $theme-colors: (
-	'primary': #f7d748,
-	// Yellow
-	'secondary': #f28e4e,
-	// Orange
-	'success': #7dc3e8,
-	// Sky Blue
-	'info': #7daae8,
-	// Light Blue
-	'warning': #eec0b0,
-	// Peach
-	'danger': #ee6363,
-	// Red
-	'light': #fff8f2,
-	// Light Gray
-	'dark': #3a3a3a,
-	// Dark Gray
-	'accent': #7ae0b6,
-	// Mint Green
-	'neutral': #b7b7b7,
-	// Neutral Gray
-	'link': #a646a1,
-	// Purple
-	'primary-bg': #fff2c5,
-	// Beige
-	'secondary-bg': #fcdfcf,
-	// Pink
-	'info-bg': #ccffcc,
-	// Light Green
-	'success-bg': #d0f0f1,
-	// Light Cyan
-	'warning-bg': #fff1e5,
-	// Light Orange
-	'danger-bg': #f5b7b1,
-	// Light Red
-	'light-bg': #ffe5cc,
-	// Peach
-	'dark-bg': #333333,
-	// Very Dark Gray
+	'primary': $easter-pink,
+	'secondary': #e76d82,
+	'success': $easter-green,
+	'info': $easter-blue,
+	'warning': $easter-yellow,
+	'danger': $easter-lavender,
+	'light': #fbf1e7,
 );
 
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
