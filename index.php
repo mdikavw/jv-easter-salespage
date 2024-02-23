@@ -16,13 +16,13 @@
 <body>
     <?php include './includes/headline.php' ?>
     <?php include './includes/cards.php' ?>
-    <div class="container">
+    <div class="container my-5">
         <div class="row">
             <div class="col-lg-8">
                 <?php include './includes/cta.php' ?>
             </div>
             <div class="col-lg-4">
-                test
+                <?php include './includes/form.php' ?>
             </div>
         </div>
     </div>
@@ -37,8 +37,11 @@
     <?php include './includes/video-section.php' ?>
     <?php include './includes/cta.php' ?>
     <?php include './includes/suggestion.php' ?>
+    <?php include './includes/funnel.php' ?>
+    <?php include './includes/tools.php' ?>
     <div id="purchase"></div>
     <?php include './includes/purchase.php' ?>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
 </body>
 
 </html>
