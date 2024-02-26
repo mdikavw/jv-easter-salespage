@@ -1,4 +1,4 @@
-<div class="fs-6">
+<div class="email">
     <p class="p1"><strong>Subjects:</strong></p>
     <ul>
         <li><strong>Etsy Seller Exclusive: Adult Coloring Pack with Resell Rights Unleashed!</strong></li>

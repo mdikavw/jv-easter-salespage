@@ -1,4 +1,4 @@
-<div class="fs-6">
+<div class="email">
     <p><em><strong>Subjects :</strong> </em></p>
     <ul>
         <li class="p1"><em><b>Publish These 15 DFY Coloring Books to Amazon – And Start Profiting Now!</b></em></li>

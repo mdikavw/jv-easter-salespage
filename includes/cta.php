@@ -10,7 +10,7 @@
             style="background-color: green">
             <i class="fas fa-calendar-alt text-white fs-2"></i>
         </div>
-        <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center bg-info py-5">
+        <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center bg-white py-5">
             <h6>Launch Start</h6>
             <h4>January 28th, 2024</h4>
         </div>
@@ -18,7 +18,7 @@
             style="background-color: red">
             <i class="fas fa-calendar-alt text-white fs-2"></i>
         </div>
-        <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center bg-info py-5">
+        <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center bg-white py-5">
             <h6>Launch End</h6>
             <h4>February 1st, 2024</h4>
         </div>

@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container-fluid my-5">
     <div class="row p-5 svg-section">
         <?php
             include 'includes/components/curved-bg.php'

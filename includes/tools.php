@@ -12,14 +12,14 @@
                     <button class="nav-link active" id="one-tab" data-bs-toggle="tab" data-bs-target="#one-tab-pane"
                         type="button" role="tab" aria-controls="one-tab-pane" aria-selected="true">
                         <h6>Email#1</h6>
-                        <h6>Coloring Book Bussiness</h6>
+                        <small>Coloring Book Bussiness</small>
                     </button>
                 </li>
                 <li class="nav-item col d-flex justify-content-center" role="presentation">
                     <button class="nav-link" id="two-tab" data-bs-toggle="tab" data-bs-target="#two-tab-pane"
                         type="button" role="tab" aria-controls="two-tab-pane" aria-selected="false">
                         <h6>Email#2</h6>
-                        <h6>PLR Bussiness</h6>
+                        <small>PLR Bussiness</small>
                     </button>
                 </li>
             </ul>
@@ -30,14 +30,14 @@
                     <button class="nav-link active" id="three-tab" data-bs-toggle="tab" data-bs-target="#three-tab-pane"
                         type="button" role="tab" aria-controls="three-tab-pane" aria-selected="false">
                         <h6>Email#3</h6>
-                        <h6>Amazon KDP Publisher</h6>
+                        <small>Amazon KDP Publisher</small>
                     </button>
                 </li>
                 <li class="nav-item col d-flex justify-content-center" role="presentation">
                     <button class="nav-link" id="four-tab" data-bs-toggle="tab" data-bs-target="#four-tab-pane"
                         type="button" role="tab" aria-controls="four-tab-pane" aria-selected="false">
                         <h6>Email#4</h6>
-                        <h6>Etsy Seller</h6>
+                        <small>Etsy Seller</small>
                     </button>
                 </li>
                 <li class="nav-item col d-flex justify-content-center" role="presentation">

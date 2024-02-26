@@ -1,7 +1,7 @@
-<div class="fs-6">
+<div class="email">
     <p><strong><em>Subjects : </em></strong></p>
     <ul>
-        <li class="p1"><strong>Your Path to Success Begins with This ColoringPack!</strong></li>
+        <li><strong>Your Path to Success Begins with This ColoringPack!</strong></li>
         <li><strong>One-Time Fee, Endless Possibilities: Your Coloring Business Upgrade!</strong></li>
         <li><strong>15 DFY-Ready to Publish Coloring Books (with Re-Sell Rights)</strong></li>
         <li><strong>750+ Coloring Pages with Re-Sell Rights!</strong></li>

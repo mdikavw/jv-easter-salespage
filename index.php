@@ -44,6 +44,9 @@
     <div class="d-block d-lg-none">
         <?php include './includes/tools-below-lg.php'?>
     </div>
+    <?php
+        include './includes/prize.php'
+    ?>
     <div id="purchase"></div>
     <?php include './includes/purchase.php' ?>
     <?php include './includes/faq.php' ?>

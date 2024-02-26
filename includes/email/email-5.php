@@ -1,4 +1,4 @@
-<div class="fs-6">
+<div class="email">
     <p>Email Title:<br><strong>Last Chance: 50% Discount on “AdultColoringPack” Ends Today!</strong></p>
     <p>Hai [NAME]</p>
     <p>Today, I’m reaching out to let you know that this is your final opportunity to secure the

@@ -11,9 +11,9 @@
     </div>
     <div class="row">
         <div class="col-md-4 d-flex flex-column gap-3">
-            <button disabled class="btn btn-secondary px-4 py-3">
+            <div class="bg-primary px-4 py-3 text-white text-center">
                 <h6 class="fw-bold">Front-End</h6>
-            </button>
+            </div>
             <small>
                 Your customers get Hundreds of creative style quote designs
 
@@ -21,9 +21,9 @@
             </small>
         </div>
         <div class="col-md-4 d-flex flex-column gap-3">
-            <button disabled class="btn btn-secondary px-4 py-3">
+            <div class="bg-primary px-4 py-3 text-white text-center">
                 <h6 class="fw-bold">Upsell</h6>
-            </button>
+            </div>
             <small>
                 Your customers get MORE content with Unrestricted PLR Rights.
 
@@ -31,9 +31,9 @@
             </small>
         </div>
         <div class="col-md-4 d-flex flex-column gap-3">
-            <button disabled class="btn btn-secondary px-4 py-3">
+            <div class="bg-primary px-4 py-3 text-white text-center">
                 <h6 class="fw-bold">O.T.O</h6>
-            </button>
+            </div>
             <small>
                 Your customers get Hundred collection of Ready-To-Upload Viral Video and Images Quotes to Hook Audience
                 and Get Viral Traffic from social media!

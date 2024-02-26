@@ -1,4 +1,4 @@
-<div class="fs-6">
+<div class="email">
     <p><em><strong>Subjects :</strong> </em></p>
     <ul>
         <li class="p1">
