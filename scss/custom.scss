@@ -4,15 +4,14 @@
 $white: #ffffff;
 
 $theme-colors: (
-	'light': #ffe6e6,
-	'dark': #2a5b72,
-	'link': #0e2c39,
-	'primary': #c2f0fc,
-	'secondary': #a6e3e9,
-	'info': #cff4fc,
-	'success': #d7ffb1,
-	'warning': #ffd8b1,
-	'danger': #ffb1b1,
+	'primary': #2a5b72,
+	'secondary': #6c757d,
+	'success': #28a745,
+	'info': #17a2b8,
+	'warning': #ffc107,
+	'danger': #dc3545,
+	'light': #f8f9fa,
+	'dark': #343a40,
 );
 
 @import '../node_modules/bootstrap/scss/bootstrap.scss';

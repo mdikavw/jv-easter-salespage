@@ -38,7 +38,12 @@
     <?php include './includes/cta.php' ?>
     <?php include './includes/suggestion.php' ?>
     <?php include './includes/funnel.php' ?>
-    <?php include './includes/tools.php' ?>
+    <div class="d-none d-lg-block">
+        <?php include './includes/tools.php' ?>
+    </div>
+    <div class="d-block d-lg-none">
+        <?php include './includes/tools-below-lg.php'?>
+    </div>
     <div id="purchase"></div>
     <?php include './includes/purchase.php' ?>
     <?php include './includes/faq.php' ?>

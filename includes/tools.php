@@ -5,7 +5,7 @@
             <p>We have prepared a simple Email Swipes you can use on our campaign.</p>
         </div>
     </div>
-    <div class="row mt-5">
+    <div class="row mt-5 gap-4">
         <div class="col">
             <ul class="nav nav-tabs fs-6 h-100" id="emailTab1" role="tablist">
                 <li class="nav-item col d-flex justify-content-center" role="presentation">
@@ -49,8 +49,8 @@
             </ul>
         </div>
     </div>
-    <div class="row">
-        <div class="col">
+    <div class="row gap-4">
+        <div class="col card p-4">
             <div class="tab-content" id="emailTabContent1">
                 <div class="tab-pane fade show active" id="one-tab-pane" role="tabpanel" aria-labelledby="one-tab"
                     tabindex="0">
@@ -61,7 +61,7 @@
                 </div>
             </div>
         </div>
-        <div class="col">
+        <div class="col card p-4">
             <div class="tab-content" id="emailTabContent2">
                 <div class="tab-pane fade show active" id="three-tab-pane" role="tabpanel" aria-labelledby="three-tab"
                     tabindex="0">
