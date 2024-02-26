@@ -5,16 +5,16 @@
         <div
             class="h-100 w-100 d-flex flex-column justify-content-center align-items-center text-white z-1 position-absolute">
             <?php include 'header.php' ?>
-            <div class="my-auto">
-                <h1 class="fw-bold mb-3">
+            <div class="my-auto w-75 text-center d-flex flex-column justify-content-column align-items-center">
+                <h1 style="font-size: 4rem;">
                     New season, new savings! Shop our Easter collection now!
                 </h1>
-                <p>
+                <p style="font-size: 2rem">
                     Easter Special ending soon. So, HOP TO IT to get these Content with
                     Complete Private Label Commercial Use Rights
                 </p>
                 <button
-                    class="btn btn-secondary px-4 py-2 my-5 fw-bold text-white d-flex align-items-center gap-3 rounded-5"
+                    class="btn btn-primary px-4 py-2 my-5 fw-bold text-white d-flex align-items-center gap-3 rounded-5"
                     onclick="document.getElementById('explore').scrollIntoView()">
                     <div class="fs-5">
                         Explore
