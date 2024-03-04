@@ -28,13 +28,11 @@
     </div>
     <?php include './includes/welcome.php' ?>
     <?php include './includes/summary.php' ?>
-    <?php include './includes/cta.php' ?>
     <?php include './includes/svg-section.php' ?>
     <?php include './includes/coloring-book-section.php' ?>
     <?php include './includes/quotes-section.php' ?>
     <?php include './includes/story-section.php' ?>
     <?php include './includes/video-section.php' ?>
-    <?php include './includes/cta.php' ?>
     <?php include './includes/suggestion.php' ?>
     <?php include './includes/funnel.php' ?>
     <div class="d-none d-lg-block">
@@ -46,16 +44,6 @@
     <?php
         include './includes/prize.php'
     ?>
-    <div class="container my-5">
-        <div class="row">
-            <div class="col-lg-8">
-                <?php include './includes/cta.php' ?>
-            </div>
-            <div class="col-lg-4">
-                <?php include './includes/form.php' ?>
-            </div>
-        </div>
-    </div>
     <script src="bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
 </body>
 

@@ -12,7 +12,7 @@
         </div>
         <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center bg-white py-5">
             <h6>Launch Start</h6>
-            <h4>January 28th, 2024</h4>
+            <h5>January 28th, 2024</h5>
         </div>
         <div class="col-12 col-lg-2 d-flex justify-content-center align-items-center py-5"
             style="background-color: red">
@@ -20,7 +20,7 @@
         </div>
         <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center bg-white py-5">
             <h6>Launch End</h6>
-            <h4>February 1st, 2024</h4>
+            <h5>February 1st, 2024</h5>
         </div>
     </div>
     <div class="row">

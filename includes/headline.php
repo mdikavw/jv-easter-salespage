@@ -1,9 +1,9 @@
 <div class="vh-100 bg-primary d-flex align-items-center">
-    <div class="h-100 w-100 headline-img position-absolute">
-        <div class="headline-overlay">
-        </div>
+    <div class="h-100 w-100 position-absolute">
+        <div class="headline-overlay"></div>
+        <div class="headline-img h-100 w-100 z-1 position-absolute"></div>
         <div
-            class="h-100 w-100 d-flex flex-column justify-content-center align-items-center text-white z-1 position-absolute">
+            class="h-100 w-100 d-flex flex-column justify-content-center align-items-center text-white z-2 position-absolute">
             <?php include 'header.php' ?>
             <div class="my-auto w-75 text-center d-flex flex-column justify-content-column align-items-center">
                 <h1 style="font-size: 4rem;">

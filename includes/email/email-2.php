@@ -1,51 +1,45 @@
 <div class="email">
-    <p><em><strong>Subjects :</strong> </em></p>
-    <ul>
-        <li class="p1">
-            <p class="p1"><strong>15 DFY-Ready to Publish Coloring Books with PLR License Await!</strong></p>
+    <strong>Subject: Introducing Easter Niche Bundle: Elevate Your Digital Product Arsenal!</strong>
+
+    <p>Dear [PLR Business Name],</p>
+
+    <p>Are you ready to supercharge your digital product lineup this Easter season? Look no further than our Easter
+        Niche Bundle – a comprehensive collection designed to meet the diverse needs of your audience.</p>
+
+    <p>>>CLICK HERE To Check It Out!</p>
+
+    <strong>Let's dive into what this bundle has in store:</strong>
+
+    <ol>
+        <li><strong>SVG Printable Designs:</strong> Inject life into merchandise like never before with our vibrant SVG
+            printable designs. From t-shirts to mugs, this package offers an array of customizable options that will
+            captivate your customers.</li>
+        <li><strong>Coloring Books:</strong> Delight your audience with a therapeutic escape through our captivating
+            coloring books. Perfect for all ages, these intricately designed pages will spark creativity and relaxation.
         </li>
-        <li><strong>750+ Coloring Pages Designs for Adult &amp; Teens (with PLR Inluded)</strong></li>
-        <li><strong>Color, Create, Cash In: Your Exclusive PLR License Inside!</strong></li>
-        <li><strong>Exclusive Access to AdultColoringPack + PLR License!</strong></li>
-        <li>
-            <p class="p1"><strong>Discover the Lucrative World of Reselling Artistic Joy!</strong></p>
-        </li>
-    </ul>
-    <p style="text-align: center;"><span style="color: #999999;">—————————–</span><span
-            style="color: #999999;">———————</span></p>
-    <p class="p1">Dear PLR Seller,</p>
-    <p class="p1">Unlock the gateway to instant profits and elevate your PLR business to new heights! 🚀</p>
-    <p class="p1">Introducing our exclusive DFY-Coloring Book Bundle…</p>
-    <p class="p1">… it’s a bundle of 15 DFY-ready to publish coloring books, each accompanied by a powerful PLR (Private
-        Label Rights) license!</p>
-    <p class="p1"><span style="color: #ff0000;"><b>&gt;&gt; CLICK HERE TTo Check It Out!</b></span></p>
-    <p class="p1">Why This Opportunity is a Game-Changer for PLR Sellers:</p>
-    <p class="p1"><b>🎨 Turnkey Creativity: </b></p>
-    <p class="p1">Dive into 15 meticulously crafted coloring books, ready for you to rebrand, customize, and offer as
-        your own unique creations.</p>
-    <ul>
-        <li class="p1">DFY-Ready to Publish Coloring Books for 15 Popular Coloring Niche</li>
-        <li class="p1">750+ DFY Coloring Pages for Adult &amp; Teens, provided in 4 file types</li>
-        <li class="p1">109 D.F.Y Coloring Book Cover Illustration Designs</li>
-        <li class="p1">8.5” x 11″ Coloring Book Size</li>
-        <li class="p1">15 Ready-to-Upload “Front &amp; Back” Book Cover Designs</li>
-        <li class="p1">Editable using Canva</li>
-        <li class="p1">1-Time Fee: Under $0.02/design for Unlimited Use</li>
-        <li class="p1">UNLIMITED uses for Commercial Projects</li>
-        <li class="p1">RE-SELL for 100% Instant profit for you</li>
-    </ul>
-    <p>&nbsp;</p>
-    <p class="p1"><b>💰 Profitable PLR License: </b></p>
-    <p class="p1">The PLR license in the Extended version grants you the rights to resell, repackage, and modify these
-        coloring books, giving you the flexibility to maximize your profits.</p>
-    <p class="p1"><b>🚀 Instant Market Entry: </b></p>
-    <p class="p1">Skip the time-consuming product creation process. With our DFY coloring books, you’re poised for
-        immediate entry into the lucrative adult coloring niche.</p>
-    <p class="p1">Ready to revolutionize your PLR business?</p>
-    <p class="p1"><span style="color: #ff0000;"><b>&gt;&gt; Click Here to Grab Our DFY “Coloring Pack” Now!</b></span>
-    </p>
-    <p class="p1">Seize this opportunity to effortlessly expand your product line and captivate your audience with
-        stunning, ready-to-publish coloring books.</p>
-    <p class="p1">Good Luck!,</p>
-    <p class="p1">[Your Name]</p>
+        <li><strong>Instagram Feed Designs:</strong> Elevate your social media presence with our trendy Instagram feed
+            designs. Packed with viral-worthy quotes, these visuals will keep your followers engaged and craving for
+            more.</li>
+        <li><strong>Pinterest and Story Content:</strong> Dominate the visual realm of Pinterest and Instagram stories
+            with our professionally crafted content. These designs are tailored to attract attention and drive traffic
+            to your platform effortlessly.</li>
+        <li><strong>Viral Easter-Themed Videos:</strong> Capture the spirit of Easter with our collection of viral
+            videos tailored for social media. Whether it's heartwarming stories or hilarious antics, these videos are
+            bound to resonate with your audience.</li>
+        <li><strong>This product has a PLR or Re-Sell Right license so you can resell it and rebrand this
+                product.</strong></li>
+    </ol>
+
+    <p>Don't miss out on the opportunity to elevate your brand with our Easter Niche Bundle.</p>
+
+    <p>With a diverse range of products designed to cater to various niches, this bundle is a must-have for any digital
+        entrepreneur looking to make a splash this Easter season.</p>
+
+    <p>For more details and to grab your bundle today, visit <a href="[Your Website Link]">[Your Website Link]</a>!</p>
+
+    <p>Warm regards,</p>
+
+    <p>[Your Name]<br>
+        [Your Position/Title]<br>
+        [Your Contact Information]</p>
 </div>

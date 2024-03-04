@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row coloring-book-section">
+    <div class="row p-5 coloring-book-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -9,23 +9,18 @@
             </div>
         </div>
         <div class="row justify-content-center align-items-center g-4">
-            <div class="col-md-6 d-flex flex-column gap-4">
-                <div class="section-list">
-                    <i class="far fa-check-circle"></i>
-                    <span>Easy to use & edit</span>
-                </div>
-                <div class="section-list">
-                    <i class="far fa-check-circle"></i>
-                    <span>Commercial & PLR License Available</span>
-                </div>
-                <div class="section-list">
-                    <i class="far fa-check-circle"></i>
-                    <span>Ready to digitally-shared or printed</span>
-                </div>
-                <div class="section-list">
-                    <i class="far fa-check-circle"></i>
-                    <span>Comes in .svg and .png</span>
-                </div>
+            <div class="col-md-6">
+                <p>
+                    Easter isn't just about egg hunts and chocolate bunnies—it's also a time for creativity and
+                    relaxation.
+                    Coloring isn't just for kids; it's a proven stress-reliever for adults too, and a perfect addition
+                    to
+                    your yoga routine.
+
+                    With this bundle, you'll receive 10 delightful Easter-themed coloring pages in both .png and .PSD
+                    formats (2500 x 3300 pixels). Use them as is or tweak them to your heart's content. Let the Easter
+                    spirit and creativity flow!"
+                </p>
             </div>
             <div class="col-md-6">
                 <img src="asset/coloring-book/MockupColoringBook2.png" alt="Placeholder Image" />

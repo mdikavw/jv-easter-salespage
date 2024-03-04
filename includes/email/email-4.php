@@ -1,35 +1,37 @@
 <div class="email">
-    <p class="p1"><strong>Subjects:</strong></p>
-    <ul>
-        <li><strong>Etsy Seller Exclusive: Adult Coloring Pack with Resell Rights Unleashed!</strong></li>
-        <li><strong>Artistic Profits Await: Add These 15 DFY Coloring Books to Your Etsy Collection!</strong></li>
-        <li><strong>Boost Your Etsy Sales with This Exclusive 15 Coloring Books Bundle!</strong></li>
-    </ul>
-    <p>&nbsp;</p>
-    <p style="text-align: center;">—————————————-</p>
-    <p class="p1">Hey [Name],</p>
-    <p class="p1">Elevate your Etsy store to new heights with a dash of creativity and a sprinkle of profits! 🌟</p>
-    <p class="p1">I’m excited to introduce you to our game-changing Coloring Pack”</p>
-    <p class="p1">…your shortcut to success on Etsy complete with DFY Coloring Books and Resell Rights!</p>
-    <p class="p1"><span style="color: #ff0000;"><b>&gt;&gt; CLICK HERE TO CHECK IT OUT!</b></span></p>
-    <p class="p1">Here’s why you’ll want to jump on this opportunity:</p>
-    <p class="p1">This Coloring Pack is designed to attract a diverse audience, for Man &amp; Woman, Adult &amp; Teens…
-        giving your Etsy store a broad and profitable reach.</p>
-    <p class="p1">– DFY-Ready to Publish Coloring Books for 15 Popular Coloring Niche</p>
-    <p class="p1">– 750+ DFY Coloring Pages for Adult &amp; Teens, provided in 4 file types</p>
-    <p class="p1">– 109 D.F.Y Coloring Book Cover Illustration Designs</p>
-    <p class="p1">– 8.5” x 11″ Coloring Book Size</p>
-    <p class="p1">– 15 Ready-to-Upload “Front &amp; Back” Book Cover Designs</p>
-    <p class="p1">– Editable using Canva</p>
-    <p class="p1">– 1-Time Fee: Under $0.02/design for Unlimited Use</p>
-    <p class="p1">– UNLIMITED uses for Commercial</p>
-    <p class="p1"><b>💼 Resell Rights for Etsy Triumph: </b></p>
-    <p class="p1">With the Resell Rights included in this pack, you can turn your passion for creativity into a thriving
-        business on Etsy!. Small investment for Thousand of Dollar monthly profit from Etsy.</p>
-    <p class="p1">Ready to infuse your Etsy shop with a burst of creativity and profitability?</p>
-    <p class="p1"><span style="color: #ff0000;"><b>&gt;&gt; Grab This DFY Coloring Pack Now!</b></span></p>
-    <p class="p1">Don’t miss out on the chance to stand out on Etsy, captivate your audience, and turn your love for art
-        into a thriving Etsy business.</p>
-    <p class="p1">Warm regards,</p>
-    <p class="p1">[Your Name]</p>
+    <strong>Subject: Boost Your Easter Sales with Our Exclusive Easter Niche Bundle!</strong>
+
+    <p>Dear Etsy Sellers,</p>
+
+    <p>Are you ready to take your Easter sales to the next level? We've got just the thing to help you stand out from
+        the crowd: introducing our Easter Niche Bundle!</p>
+
+    <p>CLICK HERE To Check It Out</p>
+
+    <p>Packed with a variety of digital design templates all themed around Easter, this bundle is designed to elevate
+        your product offerings and captivate your audience. Here's what you'll find inside:</p>
+
+    <ol>
+        <li><strong>25 printable SVG designs</strong> for merchandise, including mugs, t-shirts, and more.</li>
+        <li><strong>25 mockup coloring book templates</strong>, featuring designs suitable for both kids and
+            adults/teens.</li>
+        <li><strong>25 viral post/quotes templates</strong> tailored for your social media feeds and IG squares,
+            ensuring maximum engagement.</li>
+        <li><strong>25 Pinterest/story content templates</strong> optimized for the 9:16 aspect ratio, perfect for
+            grabbing attention.</li>
+        <li><strong>25 viral video quotes motivation templates</strong> to inspire and motivate your audience.</li>
+    </ol>
+
+    <p>But that's not all – the Easter Niche Bundle comes with a special benefit: resale rights! This means you have the
+        opportunity to resell these products to your customers or fellow sellers, expanding your revenue streams
+        effortlessly.</p>
+
+    <p>CLICK HERE To Check It Out!</p>
+
+    <p>Don't miss out on this chance to enhance your Easter offerings and boost your sales. Get your hands on the Easter
+        Niche Bundle today and watch your Etsy shop flourish this season!</p>
+
+    <p>Warm regards,<br>
+        [Your Name]<br>
+        Etsy Seller Team</p>
 </div>
