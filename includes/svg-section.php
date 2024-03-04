@@ -1,4 +1,4 @@
-<div class="container-fluid my-5">
+<div class="container-fluid">
     <div class="row p-5 svg-section">
         <?php
             include 'includes/components/curved-bg.php'
@@ -10,7 +10,7 @@
         </div>
         <div class="row justify-content-center align-items-center g-4">
             <div class="col-md-6 d-flex justify-content-center">
-                <img src="https://via.placeholder.com/300x400" alt="Placeholder Image" />
+                <img src="asset/svg-display/display.png" alt="Placeholder Image" style="border-radius: 8px" />
             </div>
             <div class="col-md-6">
                 <p>
@@ -27,10 +27,15 @@
         </div>
     </div>
     <div class="row row-cols-1 row-cols-md-2 justify-content-center p-5">
-        <?php for ($i = 0; $i < 10; $i++) : ?>
-        <div class="d-flex justify-content-center">
-            <img src="https://via.placeholder.com/700x350" class="img-fluid mb-4">
-        </div>
-        <?php endfor; ?>
+        <?php
+            $dir = "asset/svg-display";
+            $pngFiles = [];
+            for ($i = 1; $i <= 4; $i++) {
+                $pngFiles[] = $i . '.png';
+            }
+            foreach ($pngFiles as $pngFile) {
+                echo '<img src="' . $dir . '/' . $pngFile . '" alt="' . $pngFile . '" style ="padding: 0;">';
+            }
+        ?>
     </div>
 </div>

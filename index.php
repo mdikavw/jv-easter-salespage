@@ -26,7 +26,6 @@
             </div>
         </div>
     </div>
-    <div id="explore"></div>
     <?php include './includes/welcome.php' ?>
     <?php include './includes/summary.php' ?>
     <?php include './includes/cta.php' ?>
@@ -50,9 +49,6 @@
     <?php
     include './includes/cta.php'
     ?>
-    <div id="purchase"></div>
-    <?php include './includes/purchase.php' ?>
-    <?php include './includes/faq.php' ?>
     <script src="bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
 </body>
 

@@ -1,7 +1,7 @@
 <div class="container my-5">
     <div class="row justify-content-center">
         <div class="col text-center">
-            <h2>Affiliate Prizes</h2>
+            <h1>Affiliate Prizes</h1>
         </div>
     </div>
     <div class="row mb-5">
