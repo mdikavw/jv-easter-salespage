@@ -34,7 +34,7 @@
                 $pngFiles[] = $i . '.png';
             }
             foreach ($pngFiles as $pngFile) {
-                echo '<img src="' . $dir . '/' . $pngFile . '" alt="' . $pngFile . '" style="max-width: 300px">';
+                echo '<img src="' . $dir . '/' . $pngFile . '" alt="' . $pngFile . '" style="max-width: 250px">';
             }
         ?>
     </div>

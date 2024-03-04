@@ -47,6 +47,9 @@
     <?php
         include './includes/prize.php'
     ?>
+    <?php
+    include './includes/cta.php'
+    ?>
     <div id="purchase"></div>
     <?php include './includes/purchase.php' ?>
     <?php include './includes/faq.php' ?>
