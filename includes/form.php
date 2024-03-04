@@ -10,14 +10,14 @@
         <div class="col">
             <form action="#">
                 <div class="mb-3">
-                    <label for="inputName">Your Name</label>
+                    <label for="inputName" class="fs-6">Your Name</label>
                     <input type="text" class="form-control" id="inputName">
                 </div>
                 <div class="mb-3">
-                    <label for="inputEmail">Your Email</label>
+                    <label for="inputEmail" class="fs-6">Your Email</label>
                     <input type="text" class="form-control" id="inputEmail">
                 </div>
-                <input type="submit" value="Join" class="btn btn-dark w-100">
+                <input type="submit" value="Join" class="btn btn-dark w-100 fs-3 fw-bold">
             </form>
         </div>
     </div>

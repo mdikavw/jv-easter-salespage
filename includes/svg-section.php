@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 svg-section">
+    <div class="row svg-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -12,17 +12,23 @@
             <div class="col-md-6 d-flex justify-content-center">
                 <img src="asset/svg-display/display.png" alt="Placeholder Image" style="border-radius: 8px" />
             </div>
-            <div class="col-md-6">
-                <p>
-                    We've simplified the process so you can effortlessly design t-shirts, mugs, notebooks, stickers,
-                    towels,
-                    phone cases, and more. You have the flexibility to use these ready-made templates or, for advanced
-                    customization, download the PSD files and make changes to your heart's content.
-
-                    Get ready to unleash your creativity and design an array of Easter-themed SVGs. These designs will
-                    make
-                    your products stand out and elevate the holiday spirit in all your merchandise
-                </p>
+            <div class="col-md-6 d-flex flex-column gap-4">
+                <div class="section-list">
+                    <i class="far fa-check-circle"></i>
+                    <span>Easy to use & edit</span>
+                </div>
+                <div class="section-list">
+                    <i class="far fa-check-circle"></i>
+                    <span>Commercial & PLR License Available</span>
+                </div>
+                <div class="section-list">
+                    <i class="far fa-check-circle"></i>
+                    <span>Ready to digitally-shared or printed</span>
+                </div>
+                <div class="section-list">
+                    <i class="far fa-check-circle"></i>
+                    <span>Comes in .svg and .png</span>
+                </div>
             </div>
         </div>
     </div>

@@ -5,8 +5,8 @@
         </div>
     </div>
     <div class="row mb-5">
-        <div class="col d-flex flex-column justify-content-center align-items-center">
-            <h3>Prize #1: Extra Profits for Everyone</h3>
+        <div class="col d-flex flex-column justify-content-center align-items-center text-center">
+            <h2>Prize #1: Extra Profits for Everyone</h2>
             <p><strong>Every Affiliates</strong> who support this launch very hard will get extra profits on such total
                 number of sales during the launch period
             </p>
@@ -16,7 +16,8 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center gap-4">
                             <i class="fas fa-hand-holding-usd text-warning" style="font-size: 4rem"></i>
                             <h4>Extra $50</h4>
-                            <p class="text-center">Every Affiliate who make 25 total sales during the launch period will
+                            <p class="text-center">Every Affiliate who make 25 total sales during the launch period
+                                will
                                 receive extra
                                 $50</p>
                         </div>
@@ -27,7 +28,8 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center gap-4">
                             <i class="fas fa-hand-holding-usd text-warning" style="font-size: 4rem"></i>
                             <h4>Extra $100</h4>
-                            <p class="text-center">Every Affiliate who make 50 total sales during the launch period will
+                            <p class="text-center">Every Affiliate who make 50 total sales during the launch period
+                                will
                                 receive extra
                                 $100</p>
                         </div>
@@ -51,7 +53,7 @@
     </div>
     <div class="row mb-5">
         <div class="col d-flex flex-column justify-content-center align-items-center">
-            <h3>Prize #2: Leaderboard Position</h3>
+            <h2>Prize #2: Leaderboard Position</h2>
             <p>For Affiliates who are in the <strong>Top-3 Leaderboard</strong>, with a certain number of FE sales
             </p>
             <div class="row w-75">

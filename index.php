@@ -46,9 +46,16 @@
     <?php
         include './includes/prize.php'
     ?>
-    <?php
-    include './includes/cta.php'
-    ?>
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-lg-8">
+                <?php include './includes/cta.php' ?>
+            </div>
+            <div class="col-lg-4">
+                <?php include './includes/form.php' ?>
+            </div>
+        </div>
+    </div>
     <script src="bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
 </body>
 
