@@ -11,16 +11,16 @@
             <i class="fas fa-calendar-alt text-white fs-2"></i>
         </div>
         <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center bg-white py-5">
-            <h6>Launch Start</h6>
-            <h5>January 28th, 2024</h5>
+            <strong>Launch Start</strong>
+            <strong>January 28th, 2024</strong>
         </div>
         <div class="col-12 col-lg-2 d-flex justify-content-center align-items-center py-5"
             style="background-color: red">
             <i class="fas fa-calendar-alt text-white fs-2"></i>
         </div>
         <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center bg-white py-5">
-            <h6>Launch End</h6>
-            <h5>February 1st, 2024</h5>
+            <strong>Launch End</strong>
+            <strong>February 1st, 2024</strong>
         </div>
     </div>
     <div class="row">

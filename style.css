@@ -105,7 +105,7 @@ img {
 .headline-img {
 	background-image: url('asset/headline-img.png');
 	background-size: cover;
-	opacity: 0.5;
+	opacity: 0.4;
 }
 
 .headline-overlay {
