@@ -17,7 +17,7 @@
     <?php include './includes/headline.php' ?>
     <?php include './includes/cards.php' ?>
     <div class="container my-5">
-        <div class="row">
+        <div class="row g-4">
             <div class="col-lg-8">
                 <?php include './includes/cta.php' ?>
             </div>

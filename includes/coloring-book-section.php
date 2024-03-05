@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 coloring-book-section">
+    <div class="row p-2 p-md-5 coloring-book-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -9,7 +9,7 @@
             </div>
         </div>
         <div class="row justify-content-center align-items-center g-4">
-            <div class="col-md-6">
+            <div class="col-md-6 text-center text-md-left">
                 <p>
                     Easter isn't just about egg hunts and chocolate bunnies—it's also a time for creativity and
                     relaxation.

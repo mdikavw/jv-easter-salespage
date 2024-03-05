@@ -10,7 +10,7 @@
             <p><strong>Every Affiliates</strong> who support this launch very hard will get extra profits on such total
                 number of sales during the launch period
             </p>
-            <div class="row w-75">
+            <div class="row w-75 g-4">
                 <div class="col-12 col-md-4">
                     <div class="card">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center gap-4">
@@ -51,7 +51,7 @@
             </div>
         </div>
     </div>
-    <div class="row mb-5">
+    <div class="row mb-5 g-4">
         <div class="col d-flex flex-column justify-content-center align-items-center">
             <h2>Prize #2: Leaderboard Position</h2>
             <p>For Affiliates who are in the <strong>Top-3 Leaderboard</strong>, with a certain number of FE sales
