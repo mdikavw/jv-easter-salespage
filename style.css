@@ -228,5 +228,9 @@ img {
 	#btn-cta {
 		width: 50%;
 	}
+
+	#content-summary {
+		font-size: 1rem;
+	}
 	
 }
