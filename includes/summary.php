@@ -31,11 +31,7 @@
             <div class="card h-100 bg-primary border-0 rounded-3">
                 <div class="card-body p-5 text-white">
                     <div class="d-flex align-items-center justify-content-center">
-<<<<<<< HEAD
                         <i class="fas fa-shopping-bag fa-3x"></i>
-=======
-                        <i class="fas fa-shopping-bag fa-4x"></i>
->>>>>>> 173c09cd685da644cc8f2a738dd63de1e4a44302
                     </div>
                     <h3 id="title-summary" class="card-title text-center mt-5">Easter SVGs for Eye-Catching Designs</h3>
                     <p id="content-summary" class="card-text text-center mt-5">
