@@ -71,13 +71,10 @@
             <div class="card h-100 bg-primary border-0 rounded-3">
                 <div class="card-body p-5 text-white">
                     <div class="d-flex align-items-center justify-content-center">
-<<<<<<< HEAD
                         <i class="fas fa-video fa-3x"></i>
-=======
-                        <i class="fas fa-video fa-4x"></i>
->>>>>>> 173c09cd685da644cc8f2a738dd63de1e4a44302
                     </div>
-                    <h3 id="title-summary" class="card-title text-center mt-5">Engaging Video Posts to Tell Your Story</h3>
+                    <h3 id="title-summary" class="card-title text-center mt-5">Engaging Video Posts to Tell Your Story
+                    </h3>
                     <p id="content-summary" class="card-text text-center mt-5">
                         Video content is a powerful way to engage your audience. Our
                         pre-designed Easter video posts are a simple way to create
@@ -113,13 +110,10 @@
             <div class="card h-100 bg-primary border-0 rounded-3">
                 <div class="card-body p-5 text-white">
                     <div class="d-flex align-items-center justify-content-center">
-<<<<<<< HEAD
                         <i class="fas fa-palette fa-3x"></i>
-=======
-                        <i class="fas fa-palette fa-4x"></i>
->>>>>>> 173c09cd685da644cc8f2a738dd63de1e4a44302
                     </div>
-                    <h3 id="title-summary" class="card-title text-center mt-5">Interactive Coloring Books for All Ages</h3>
+                    <h3 id="title-summary" class="card-title text-center mt-5">Interactive Coloring Books for All Ages
+                    </h3>
                     <p id="content-summary" class="card-text text-center mt-5">
                         Our Easter-themed coloring books are perfect for entertaining both kids
                         and
@@ -156,11 +150,7 @@
             <div class="card h-100 bg-primary border-0 rounded-3">
                 <div class="card-body p-5 text-white">
                     <div class="d-flex align-items-center justify-content-center">
-<<<<<<< HEAD
                         <i class="fas fa-quote-right fa-3x"></i>
-=======
-                        <i class="fas fa-quote-right fa-4x"></i>
->>>>>>> 173c09cd685da644cc8f2a738dd63de1e4a44302
                     </div>
                     <h3 id="title-summary" class="card-title text-center mt-5">Inspirational Easter Quotes to Share</h3>
                     <p id="content-summary" class="card-text text-center mt-5">
@@ -198,13 +188,10 @@
             <div class="card h-100 bg-primary border-0 rounded-3">
                 <div class="card-body p-5 text-white">
                     <div class="d-flex align-items-center justify-content-center">
-<<<<<<< HEAD
                         <i class="fas fa-heart fa-3x"></i>
-=======
-                        <i class="fas fa-heart fa-4x"></i>
->>>>>>> 173c09cd685da644cc8f2a738dd63de1e4a44302
                     </div>
-                    <h3 id="title-summary" class="card-title text-center mt-5">Customized Post Content Tailored for Your Brand</h3>
+                    <h3 id="title-summary" class="card-title text-center mt-5">Customized Post Content Tailored for Your
+                        Brand</h3>
                     <p id="content-summary" class="card-text text-center mt-5">
                         Don't have time to create your own content? Let our team of experts
                         craft
