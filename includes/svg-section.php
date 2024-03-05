@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 svg-section">
+    <div class="row p-2 p-md-5 svg-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -12,7 +12,7 @@
             <div class="col-md-6 d-flex justify-content-center">
                 <img src="asset/svg-display/display.png" alt="Placeholder Image" style="border-radius: 8px" />
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 text-center text-md-left">
                 <p>
                     We've simplified the process so you can effortlessly design t-shirts, mugs, notebooks, stickers,
                     towels,

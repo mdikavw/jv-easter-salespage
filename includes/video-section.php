@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 video-section">
+    <div class="row p-2 p-md-5 video-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -13,7 +13,7 @@
             <div class="col-md-6 d-flex justify-content-center">
                 <img src="asset/video-display/display.png" alt="Placeholder Image" />
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 text-center text-md-left">
                 <p>
                     We've simplified the process so you can effortlessly design t-shirts, mugs, notebooks, stickers,
                     towels,

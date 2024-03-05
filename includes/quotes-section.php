@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 quotes-section">
+    <div class="row p-2 p-md-5 quotes-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -12,7 +12,7 @@
             <div class="col-md-6 d-flex justify-content-center">
                 <img src="https://via.placeholder.com/300x400" alt="Placeholder Image" />
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 text-center text-md-left">
                 <p>
                     We've simplified the process so you can effortlessly design t-shirts, mugs, notebooks, stickers,
                     towels,
