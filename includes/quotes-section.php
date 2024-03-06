@@ -10,7 +10,7 @@
         </div>
         <div class="row justify-content-center align-items-center g-4">
             <div class="col-md-6 d-flex justify-content-center">
-                <img src="asset/easter-quotes/display.png" alt="Placeholder Image" />
+                <img src="asset/easter-quotes/display.png" width="400" alt="Placeholder Image" />
             </div>
             <div class="col-md-6 text-center text-md-left">
                 <p>
