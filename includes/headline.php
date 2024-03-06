@@ -7,7 +7,7 @@
             <div class="d-none d-md-block w-100">
                 <?php include 'header.php' ?>
             </div>
-            <div class="my-auto text-center d-flex flex-column justify-content-column align-items-center">
+            <div class="my-auto text-center d-flex flex-column justify-content-column align-items-center p-2 p-md-5">
                 <h1 id="headline">
                     New season, new savings! Shop our Easter collection now!
                 </h1>
