@@ -4,7 +4,7 @@
         <div class="headline-img h-100 w-100 z-1 position-absolute"></div>
         <div
             class="h-100 w-100 d-flex flex-column justify-content-center align-items-center text-white z-2 position-absolute">
-            <div class="d-none d-md-block">
+            <div class="d-none d-md-block w-100">
                 <?php include 'header.php' ?>
             </div>
             <div class="my-auto text-center d-flex flex-column justify-content-column align-items-center">
